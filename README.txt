@@ -1,1 +1,0 @@
-This is repository for csharp test projects.
