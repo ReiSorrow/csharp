@@ -1,0 +1,16 @@
+C:\Users\Макс\AppData\Local\Temporary Projects\SerialParcer\bin\Debug\SerialParcer.exe
+C:\Users\Макс\AppData\Local\Temporary Projects\SerialParcer\bin\Debug\SerialParcer.pdb
+C:\Users\Макс\AppData\Local\Temporary Projects\SerialParcer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Макс\AppData\Local\Temporary Projects\SerialParcer\obj\Debug\SerialParcer.Form1.resources
+C:\Users\Макс\AppData\Local\Temporary Projects\SerialParcer\obj\Debug\SerialParcer.Properties.Resources.resources
+C:\Users\Макс\AppData\Local\Temporary Projects\SerialParcer\obj\Debug\SerialParcer.csproj.GenerateResource.Cache
+C:\Users\Макс\AppData\Local\Temporary Projects\SerialParcer\obj\Debug\SerialParcer.exe
+C:\Users\Макс\AppData\Local\Temporary Projects\SerialParcer\obj\Debug\SerialParcer.pdb
+C:\Users\Макс\Documents\Visual Studio 2008\Projects\SerialParcer\SerialParcer\obj\Debug\SerialParcer.exe
+C:\Users\Макс\Documents\Visual Studio 2008\Projects\SerialParcer\SerialParcer\obj\Debug\SerialParcer.pdb
+C:\Users\Макс\Documents\Visual Studio 2008\Projects\SerialParcer\SerialParcer\bin\Debug\SerialParcer.exe
+C:\Users\Макс\Documents\Visual Studio 2008\Projects\SerialParcer\SerialParcer\bin\Debug\SerialParcer.pdb
+C:\Users\Макс\Documents\Visual Studio 2008\Projects\SerialParcer\SerialParcer\obj\Debug\SerialParcer.Form1.resources
+C:\Users\Макс\Documents\Visual Studio 2008\Projects\SerialParcer\SerialParcer\obj\Debug\SerialParcer.Properties.Resources.resources
+C:\Users\Макс\Documents\Visual Studio 2008\Projects\SerialParcer\SerialParcer\obj\Debug\SerialParcer.csproj.GenerateResource.Cache
+C:\Users\Макс\Documents\Visual Studio 2008\Projects\SerialParcer\SerialParcer\obj\Debug\SerialParcer.csprojResolveAssemblyReference.cache
