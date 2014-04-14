@@ -41,7 +41,7 @@ namespace SerialParcer
                     foreach (Match match in resSV)
                     {
                         adressList.Items.Add(match.Groups[1].Value);
-                        listBox1.Items.Add(match.Groups[2].Value);
+                        AddItem(match.Groups[2].Value);
                     }
                 }
             }
@@ -100,6 +100,24 @@ namespace SerialParcer
         private void linkLabel1_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
         {
             System.Diagnostics.Process.Start(linkLabel1.Text);
+        }
+
+        delegate void AddItemCallback(string text);
+
+        private void AddItem(string text)
+        {
+            // InvokeRequired required compares the thread ID of the
+            // calling thread to the thread ID of the creating thread.
+            // If these threads are different, it returns true.
+            if (this.listBox1.InvokeRequired)
+            {
+                AddItemCallback d = new AddItemCallback(AddItem);
+                this.Invoke(d, new object[] { text });
+            }
+            else
+            {
+                this.listBox1.Items.Add(text);
+            }
         }
     }
 }
